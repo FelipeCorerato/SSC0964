@@ -12,7 +12,7 @@ md("""# Trabalho 2 — Alocação Sistemática em Classes de Ativos com Aprendiz
 **SSC0964 — Introdução à Computação no Mercado Financeiro — 1º Semestre 2026**
 **Prof. Denis Fernando Wolf**
 
-**Dupla:** Ana Lívia (nº USP: ______) e Felipe (nº USP: ______)
+**Dupla:** Ana Lívia de Magalhães Garbin (nº USP: 14557394) e Felipe Reis Corerato (nº USP: 14569800)
 
 ---
 
